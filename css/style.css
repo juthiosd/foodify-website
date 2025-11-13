@@ -522,3 +522,8 @@ width: 100%;
     padding: 3rem 0;
     line-height: 0;
 }
+
+/*09 about page css*/
+.about .about-details p{
+    color: var(--primary-text);
+}
