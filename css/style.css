@@ -527,3 +527,7 @@ width: 100%;
 .about .about-details p{
     color: var(--primary-text);
 }
+/*product page css*/
+.product .product-detail p{
+    margin-bottom: 1.5rem;
+}
