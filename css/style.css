@@ -531,3 +531,16 @@ width: 100%;
 .product .product-detail p{
     margin-bottom: 1.5rem;
 }
+/*Contcat p0age*/
+.contact .contact-form{
+    background-color: var(--light-color);
+    padding: 5rem;
+    box-shadow: 0 0.2rem 1.5rem rgb(0 0 0 / 4%);
+}
+.contact .contact-form .form-control:focus{
+    outline: none;
+    box-shadow: none;
+}
+.contact .contact-form textarea{
+    min-height: 15rem;
+}
